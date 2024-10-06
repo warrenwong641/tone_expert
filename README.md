@@ -1,6 +1,4 @@
 
-# Multiagent inference system for story generation
-
 This project suggest a architecture for text generation with tone input for the incoming text.
 
 
